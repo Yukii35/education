@@ -1,0 +1,88 @@
+body{
+    background-color: bisque;
+    font-family: 'Inconsolata', monospace;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+h1{
+    margin: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+ul{
+    list-style: none;
+}
+
+.container{
+    display: flex;
+    margin: 2rem 1rem;
+    width: 100%;
+}
+
+.container_title{
+    width: 10%;
+    margin: 1rem;
+    letter-spacing: 2px;
+    font-size: 32px;
+}
+
+.container_image{
+    border-radius: 5px;
+    width: 10%;
+    margin: 1rem;
+}
+
+.container_text{
+    width: 20%;
+    margin: 1rem;
+}
+
+.container_list{
+    width: 20%;
+    margin: 1rem;
+    color: brown;
+}
+
+.nav-item{
+    margin: 1rem;
+}
+
+.square{
+    list-style: square;
+}
+
+.olive{
+    color: darkolivegreen;
+}
+
+.cfblue{
+    color: cornflowerblue;
+}
+
+.crimson{
+    color: crimson;
+}
+
+.fs12{
+    font-size: 12px;
+}
+
+.fs20{
+    font-size: 20px;
+}
+
+.fs24{
+    font-size: 24px;
+}
